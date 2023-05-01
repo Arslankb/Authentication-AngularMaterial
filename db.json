@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "admin user",
+      "password": "Test@12345",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "arham",
+      "name": "arham ubaid",
+      "password": "Arham@12345",
+      "email": "arham@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    },
+    {
+      "id": "faraz",
+      "name": "ali faraz",
+      "password": "Faraz@12345",
+      "email": "faraz@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "kashif",
+      "name": "kashif ali",
+      "password": "Ali@12345",
+      "email": "ali@gmail.com",
+      "gender": "male",
+      "role": "quality",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    }
+  ]
+}
